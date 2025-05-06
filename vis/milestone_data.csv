@@ -1,0 +1,5 @@
+model,episodes_to_25th_percentile,episodes_to_50th_percentile,episodes_to_75th_percentile,episodes_to_90th_percentile
+fixed,562,2052,2901,3663
+progressive,537,756,1607,3698
+domain_random,124,476,811,895
+random,211,872,2005,3834
