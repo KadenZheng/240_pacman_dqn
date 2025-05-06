@@ -61,7 +61,7 @@ The `TransitionFunctionController` in `ghostAgents.py` manages transitions betwe
 Run the training script to train agents with different transition function modes:
 
 ```bash
-./run_training.sh
+./run_training_with_saving.sh
 ```
 
 This will:
@@ -71,6 +71,7 @@ This will:
 3. Train a DQN with domain randomization
 4. Train a DQN with random transition function shifts
 5. Generate training metrics plots
+6. Save model progress in the saves folder for later evalutation
 
 ### Benchmarking
 
